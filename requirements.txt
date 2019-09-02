@@ -1,0 +1,6 @@
+DateTime==4.3
+pyparsing==2.4.0
+pyTelegramBotAPI==3.6.6
+pytz==2019.1
+requests==2.10.0
+
